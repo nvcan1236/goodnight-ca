@@ -1,0 +1,16 @@
+@media (max-width: 739px) {
+    .heading {
+        font-size: 40px;
+        padding: 50px 0;
+    }
+    .ghost {
+        zoom: 0.7;
+    }
+
+    .watch-more-text {
+        font-size: 16px;
+    }
+    .footer {
+        margin-top: 250px;
+    }
+}
